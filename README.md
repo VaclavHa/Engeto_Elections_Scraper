@@ -9,7 +9,7 @@ https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
 
 A list of all need libraries can be found in file: requiremens.txt 
 
-Install required libraries manually or use `pip install -r requirements. txt`
+Install required libraries manually or use `pip install -r requirements.txt`
 
 Before installation is recommended to create a virtual enviroment.
 
