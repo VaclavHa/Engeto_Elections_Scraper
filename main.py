@@ -1,5 +1,5 @@
 """
-třetí projekt do Engeto Online Python Akademie
+Třetí projekt do Engeto Online Python Akademie
 
 author: Václav Hanzl
 email: hanzlvaclav00@gmail.com
