@@ -28,4 +28,4 @@ Second argument is the name of output file. Output file must be ".csv".
 
 ## Output example
 
-<img alt="Output file opened in Excel" height="auto" src="C:\Users\uzivatel\OneDrive\Desktop\Output_example.png" title="Output example" width="auto"/>
+<img alt="Output file opened in Excel" height="auto" src="[C:\Users\uzivatel\OneDrive\Desktop\Output_example.png](https://github.com/VaclavHa/Projekt_3_Engeto/blob/master/Output_example.png)https://github.com/VaclavHa/Projekt_3_Engeto/blob/master/Output_example.png" title="Output example" width="auto"/>
