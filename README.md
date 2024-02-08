@@ -1,4 +1,4 @@
-# Electations Scraper
+# Elections Scraper
 
 ## Description
 
